@@ -7,7 +7,7 @@ I'm a Full-Stack Software Engineer with a strong passion for solving complex pro
 ## 💡 About Me
 
 - 🧠 Full-Stack Developer @ **Taqreer**, focused on backend optimization, Vue.js + Quasar frontend, and third-party integrations (Meta WhatsApp, Zid, Salla).
-- 🛠️ Previously built projects at **Unistep** and **ProCrew**, delivering clean architecture and reusable UI libraries.
+- 🛠️ Previously built projects at **Taqrer** and **ProCrew**, delivering clean architecture and reusable UI libraries.
 - 🌐 Experience across various stacks: .NET, NodeJS, Vue, React, Angular and more.
 - ☁️ Familiar with cloud platforms like AWS and Azure, and messaging systems like RabbitMQ.
 - 📦 Passionate about building robust backend systems, clean APIs, and real-time data flows.
